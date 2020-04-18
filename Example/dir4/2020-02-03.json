@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "91BC8AAF-D608-422C-8947-98A9D392395A",
+        "type": "message",
+        "text": "I’ve sent you both a sketch cloud invite; ignore it! Sorry",
+        "user": "U8HJDQKKP",
+        "ts": "1580757539.001100",
+        "team": "T06FG94SV",
+        "user_team": "T06FG94SV",
+        "source_team": "T06FG94SV",
+        "user_profile": {
+            "avatar_hash": "g69486bf996c",
+            "image_72": "2323",
+            "first_name": "323",
+            "real_name": "322",
+            "display_name": "123",
+            "team": "T06FG94SV",
+            "name": "david",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "msf6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I’ve sent you both a sketch cloud invite; ignore it! Sorry"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b7f44972-935c-4dee-93cc-eebd9061add5",
+        "type": "message",
+        "text": "k, no worries",
+        "user": "U06TX27FW",
+        "ts": "1580759670.001300",
+        "team": "T06FG94SV",
+        "user_team": "T06FG94SV",
+        "source_team": "T06FG94SV",
+        "user_profile": {
+            "avatar_hash": "fcd40acc3ecc",
+            "image_72": "3232",
+            "first_name": "32",
+            "real_name": "3232",
+            "display_name": "323",
+            "team": "T06FG94SV",
+            "name": "dsdsd",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gsH1Z",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "k, no worries"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "client_msg_id": "58985dad-51a7-4e35-8cc0-a3b3ccca01bc",
+        "type": "message",
+        "text": "blah blah",
+        "user": "U8HJDQKKP",
+        "ts": "1580316894.000200",
+        "team": "T06FG94SV",
+        "user_team": "T06FG94SV",
+        "source_team": "T06FG94SV",
+        "user_profile": {
+            "avatar_hash": "g69486bf996c",
+            "image_72": "",
+            "first_name": "1",
+            "real_name": "1",
+            "display_name": "1",
+            "team": "T06FG94SV",
+            "name": "1",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CV9R",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "link",
+                                "url": "1"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "08ad04a7-5286-410d-a051-902579485d1e",
+        "type": "message",
+        "text": "cool; yeah, looking and I'm going to test a bit locally",
+        "user": "U06TX27FW",
+        "ts": "1580318570.000600",
+        "team": "T06FG94SV",
+        "user_team": "T06FG94SV",
+        "source_team": "T06FG94SV",
+        "user_profile": {
+            "avatar_hash": "fcd40acc3ecc",
+            "image_72": "sdfsdf",
+            "first_name": "f",
+            "real_name": "f f",
+            "display_name": "f",
+            "team": "T06FG94SV",
+            "name": "sdf",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "L\/1",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cool; yeah, looking and I'm going to test a bit locally"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
